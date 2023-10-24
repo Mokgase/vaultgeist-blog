@@ -1,0 +1,43 @@
+
+body{
+    display: flex,
+    justifyContent= center,
+    alignItems= center,
+    height= 100vh
+}
+
+/* img{} */
+
+.vaultgeist_badge{
+    height: 100px;
+    width: 100px;
+}
+
+h1{
+    color:#00bfff
+    
+}
+
+p{
+    color:#636566
+}
+
+ul{
+    list-style-type: none;
+    color: #636566;
+}
+
+button{
+    background-color: #00bfff;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+    
+}
+
+button {border-radius: 14px;}
