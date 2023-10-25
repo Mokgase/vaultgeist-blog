@@ -9,7 +9,7 @@ const Subscribe = () => {
             fontWeight:'normal'
         }}>
 
-        <Text>
+        {/* <Text> */}
             <text>
                 <h1>Needle Drops & Reviews.</h1>
                 <h1>Subscribe to Vaultgeist!</h1>
@@ -24,8 +24,14 @@ const Subscribe = () => {
 
 
             </text>
-        </Text>  
+        {/* </Text>   */}
         </div>
     );
 };
 export default Subscribe;
+
+
+// Styles
+const StyledForm = styled.div`
+  width: 400px;
+`;
